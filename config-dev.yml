@@ -1,4 +1,4 @@
-server:
+ï»¿server:
   port: 3344
 spring:
   application:
@@ -7,7 +7,7 @@ spring:
     config:
       server:
         git:
-          uri:  ÌîÐ´Äã×Ô¼ºµÄgithubÂ·¾¶
+          uri:  å¡«å†™ä½ è‡ªå·±çš„githubè·¯å¾„
           search-paths:
             - springcloud-config
       label: master
